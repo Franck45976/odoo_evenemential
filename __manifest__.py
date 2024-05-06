@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 {
 
-   'name' : 'GEDILG',
+   'name' : 'GEDILGE',
    'description' : """Ce projet vise à développer un module Odoo pour la 
    gestion des événements, des inscriptions en ligne et des participants.""",
    'version' : '1.0',
